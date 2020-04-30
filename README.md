@@ -1,4 +1,4 @@
-# bamazon
+# Bamazon
 
 To run this application, you will need MySQL and Node JS installed on your computer.
 
